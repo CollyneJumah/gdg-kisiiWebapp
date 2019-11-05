@@ -1,0 +1,34 @@
+{
+    "ChapterName":"GDG Kisii",
+    "ChapterShortDescription":"Google Developer Group (GDG) Kisii Chapter is for tech enthusiasts, makers, software artisans and creators who are interested in learning, sharing and getting to know more of Google developer tools & technologies",
+    "ChapterLongDec":"Google Developer Group (GDG) Kisii Chapter is for tech enthusiasts, makers, software artisans and creators who are interested in learning, sharing and getting to know more of Google developer tools & technologies.So if you would like to dive deeper into Google's developer technologies; everything from the Android, Firebase, Chrome, App Engine, HTML5, to product APIs like the YouTube API, Maps API and Chart Tools, then join our amazing community!",
+    "ChapterMeetupLink":"https://www.meetup.com/GDG-Kisii",
+    "ChapterEmail":"gdgkisii@gmail.com",
+    "website":"https://gdgkisii.com",
+    "GDGProgramWebsite":"https://developers.google.com/programs/community/",
+    "ChapterHashTags":["gdgkisii","dsckisii","GDG","WTM","ksukucsa"],
+    "socialLinks":[
+        {
+            "name" : "Facebook",
+            "link" : "https://www.facebook.com/GDGKisii/",
+            "icon" : "fab fa-facebook"
+        },
+        {
+            "name" : "Google Plus",
+            "link" : "mailto:gdgkisii@gmail.com",
+            "icon" : "fab fa-google-plus"
+        },
+        {
+            "name" : "Twitter",
+            "link" : "https://twitter.com/gdgkisii",
+            "icon" : "fab fa-twitter"
+        },
+        {
+            "name" : "Meetup",
+            "link" : "https://https://www.meetup.com/GDG-Kisii/",
+            "icon" : "fab fa-meetup"
+        }
+    ],
+    "wtmWebsite":"https://www.womentechmakers.com/",
+    "aboutGDGProgram":"GDGs are local groups of developers who are specifically interested in Google products and APIs. Each local group is called a GDG chapter and can host a variety of technical activities for developers - from just a few people getting together to watch our latest videos, to large gatherings with demos and tech talks, to hackathons."
+}

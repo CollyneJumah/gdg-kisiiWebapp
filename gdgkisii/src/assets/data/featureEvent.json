@@ -1,0 +1,21 @@
+{
+    "FeatureEventName":"DevFest Kisii",
+    "EventImage":"devfest.png",
+    "EventDate":{
+        "Date":"30",
+        "Month":"11",
+        "Year":"2019"
+    },
+    "EventTime":{
+        "StartTime":"08:00 AM",
+        "EndTime":"05:30 PM"
+    },
+    "EventVenue":"Kisii University Main Campus, School of Law",
+    "EventVenueMapLink":"https://www.google.com/maps/place/Kisii+University+School+Of+Law/@-0.5693611,34.6968702,11z/data=!4m8!1m2!2m1!1skisii+university+law+school!3m4!1s0x182b3eba809edab3:0x665a58cce9ec2fae!8m2!3d-0.6909639!4d34.7853719",
+    "EventWebsite":"https://gdgkisii.com/",
+    "EventDescription":"We bring to you the finest Tech Gurus from Kenya who will enlighten, up-skill and inspire you with all the new and existing tech ideas, which will make your life easier hence happier as a developer.We have got Kotlin, Android of things, IOT, Creative and Design Thinking Process, Firebase Android, Firebase Web, PWA, Flutter, Google Assistant and amazing speakers sessions all lined up for you.",
+    "MeetupLink":"https://www.meetup.com/GDG-Kisii/events/264869732/",
+    "RegistrationLink":"https://www.meetup.com/GDG-Kisii/events/264869732/",
+    "FBEventPageURL":"https://www.facebook.com/GDGKisii/"
+}
+

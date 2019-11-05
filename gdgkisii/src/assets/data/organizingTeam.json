@@ -1,0 +1,29 @@
+[
+    {
+        "name":"Beatrice Masila",
+        "designation":"Organizer",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/",
+        "github":"https://github.com/",
+        "profileImage":"trice.jpeg",
+        "website":""
+    },
+    {
+        "name":"Collins Jumah",
+        "designation":"Co-organizer",
+        "twitter":"https://twitter.com/JumahCollyne",
+        "linkedin":"https://www.linkedin.com/in/collins-jumah-723198157/",
+        "github":"https://github.com/CollyneJumah",
+        "profileImage":"juma.jpeg",
+        "website":"https://collinsjumah.netlify.com/"
+    },
+    {
+        "name":"Ann Wamboi",
+        "designation":"Event Organizer",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/",
+        "github":"https://www.github.com/",
+        "profileImage":"anne.jpeg",
+        "website":""
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "name":"Beatrice Masila",
+        "designation":"Android Developer",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/",
+        "github":"https://github.com/",
+        "profileImage":"trice.jpeg",
+        "website":""
+    },
+    {
+        "name":"Kelvin Kamau",
+        "designation":"Android Developer",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/",
+        "github":"https://github.com/",
+        "profileImage":"kev.jpg",
+        "website":""
+    },
+    {
+        "name":"Martha Kira",
+        "designation":"IOT",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/",
+        "github":"https://github.com/",
+        "profileImage":"",
+        "website":""
+    },
+    {
+        "name":"Collins Jumah",
+        "designation":"Web Developer",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/",
+        "github":"https://github.com/",
+        "profileImage":"juma.jpeg",
+        "website":""
+    },
+    {
+        "name":"Ann Wamboi",
+        "designation":"Web Developer",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/",
+        "github":"https://github.com/",
+        "profileImage":"anne.jpeg",
+        "website":""
+    }
+]
